@@ -8,7 +8,7 @@
     "start": "concurrently \"electron ./src/main.js\" \"webpack\"",
     "webpack": "webpack"
   },
-  "author": "",
+  "author": "Lindsay Wardell",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
